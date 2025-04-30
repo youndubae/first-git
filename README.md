@@ -1,0 +1,1 @@
+Erstes Github Repository. Readme ist hinzugefügt. Auf Origin pushen.
